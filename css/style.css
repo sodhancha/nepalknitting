@@ -353,17 +353,19 @@ section {
 }
 
 #logo img {
-    max-height: 22px;
+    max-height: 165px;
     vertical-align: middle;
-    margin-right: 15px;
+    margin-right: 10px;
 }
 
 #navigation-logo {
     display: none;
+    
 }
 
 .nav-solid #logo #banner-logo {
     display: none;
+
 }
 
 .nav-solid #logo #navigation-logo {
