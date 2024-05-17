@@ -352,7 +352,9 @@ section {
     padding: 0;
 }
 
+
 #logo img {
+    
     max-height: 165px;
     vertical-align: middle;
     margin-right: 10px;
@@ -360,7 +362,7 @@ section {
 
 #navigation-logo {
     display: none;
-    
+
 }
 
 .nav-solid #logo #banner-logo {
